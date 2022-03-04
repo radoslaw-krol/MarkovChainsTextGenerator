@@ -1,2 +1,2 @@
-# MarkovChainsTextGenerator
-Text Generator with Markov Chains in Python
+# Markov Chains Text Generator in Python
+
